@@ -12,6 +12,7 @@ Var
 
 
 
+
 Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
 
@@ -24,7 +25,7 @@ Inicio
    escreval("Informe sua altura: ")
    leia(altura)
    
-   escreval("Nome: ",nome, " - Altura: ",altura, "mts - Peso: ",peso, "kg - IMC: ",imc)
+   escreval("Nome: ",nome, " - Altura: ",altura, "mts - Peso: ",peso)
 
 
 
