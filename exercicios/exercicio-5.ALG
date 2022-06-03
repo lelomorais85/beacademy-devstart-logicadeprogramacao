@@ -15,10 +15,11 @@ Var
 Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
 
-   escreval("Por favor informe o valor do depósito")
+   escreval("Por favor nforme o valor do depósito")
    leia(deposito)
 
    saldo_atualizado <- deposito+100
    escreval("Seu saldo era de R$ 100,00, e você depositou: ", deposito)
    escreval("Seu saldo atualizado é de: ",saldo_atualizado)
+>>>>>>> 44ca331762ec3101f6d0948fa21736c0f6dbb8e5
 Fimalgoritmo

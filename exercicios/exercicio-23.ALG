@@ -20,7 +20,7 @@ Inicio
    escreval("")
    escreval("Olá, seu saldo é de ",saldo,". Para sacar 150,00 pressione 1, para sair pressione s")
    leia(sacar)
-   
+
    se (sacar="1") entao
    saldo<- saldo - saque
       escreval("Você sacou 150,00")

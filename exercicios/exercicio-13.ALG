@@ -6,13 +6,17 @@ Algoritmo "múltiplos de 2 de 0 a 100"
 // Data atual  : 26/05/2022
 Var
    // Seção de Declarações das variáveis
-i : inteiro
+numero, i : inteiro
 
 Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
 
- para i de 0 ate 100 passo 2 faca
-      escreval(i)
+      escreval("Qual tabuada deseja consultar? ")
+      leia(numero)
+      para i de 1 ate 10 faca
+           escreval(numero, " x", i, " =", numero * i)
       fimpara
 
+
+>>>>>>> 44ca331762ec3101f6d0948fa21736c0f6dbb8e5
 Fimalgoritmo
