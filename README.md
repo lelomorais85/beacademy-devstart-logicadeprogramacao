@@ -1,4 +1,4 @@
-[Logo](https://github.com/lelomorais85/beacademy-devstart-frontend-myportfolio/blob/main/assets/img/be-academy.png)
+![Logo](https://github.com/lelomorais85/beacademy-devstart-frontend-myportfolio/blob/main/assets/img/be-academy.png)
 
 
 # Lógica e Lógica de Programação   
@@ -6,7 +6,8 @@
 
 #### Exemplo = Exercício utilizando o VisualG (pg 26)
 [Exemplo](https://github.com/lelomorais85/beacademy-devstart-logicadeprogramacao/exercicios/exemplo-00.ALG) 
-![Resolução](https://github.com/lelomorais85/beacademy-devstart-logicadeprogramacao/printscreen/exemplo-00.jpg)
+
+![Resolução](https://github.com/lelomorais85/beacademy-devstart-logicadeprogramacao/blob/main/printscreen/exemplo-00.jpg)
 
 #### Exercício 1 = Exercício de Algoritmo.
 Faça um algoritmo para efetuar a troca de um pneu furado (pg 10)
@@ -16,6 +17,7 @@ Faça um algoritmo para efetuar a troca de um pneu furado (pg 10)
 #### Exercício 2 = Constantes, Comandos de Atribuição e Comentários.
 Crie um programa que declare 3 variáveis para receber o Nome, o peso e a altura de uma pessoa. Ao final imprima os dados na tela. (pg40)
 [Exercício 2](https://github.com/lelomorais85/beacademy-devstart-logicadeprogramacao/blob/main/exercicios/exercicio-2.ALG)
+
 ![Resolução](https://github.com/lelomorais85/beacademy-devstart-logicadeprogramacao/blob/main/printscreen/exemplo-00.jpg)
 
 #### Exercício 3 = Constantes, Comandos de Atribuição e Comentários.
