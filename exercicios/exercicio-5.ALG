@@ -15,7 +15,7 @@ Var
 Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
 
-   escreval("Por favor nforme o valor do depósito")
+   escreval("Por favor informe o valor do depósito")
    leia(deposito)
 
    saldo_atualizado <- deposito+100

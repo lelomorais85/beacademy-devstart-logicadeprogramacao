@@ -17,19 +17,25 @@ Inicio
    saque<- 150
 
    repita
+   escreval("")
    escreval("Olá, seu saldo é de ",saldo,". Para sacar 150,00 pressione 1, para sair pressione s")
    leia(sacar)
    
-   escolha sacar
-   Caso "1"
-        saldo <- saldo - saque
-   Caso "s"
+   se (sacar="1") entao
+   saldo<- saldo - saque
+      escreval("Você sacou 150,00")
+   senao
+
    interrompa
 
-
-   ate saldo < saque
-
+   fimse
 
 
+   ate (saque > saldo) ou (sacar="s")
+   se (sacar="s") entao
+      escreval("Programa encerrado pelo usuário")
+   senao
+   escreval("Saldo insuficiente para sacar")
+   fimse
 
 Fimalgoritmo
